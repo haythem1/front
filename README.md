@@ -2,7 +2,7 @@
 
 ### `npm install`
 
-version node : v20.16.0
+version node : v20
 
 # run le projet 
 
